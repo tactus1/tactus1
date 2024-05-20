@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tactus, I am a new developer
 - 👀 I’m interested in android and cybersecurity
-- 🌱 I’m currently learning git and will soon learn other programming languages
+- 🌱 I will soon learn other programming languages
 - 📫 You can reach me on telegram at t.me/tactuss
 
 <!---
